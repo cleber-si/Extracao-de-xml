@@ -1,0 +1,16 @@
+ID_registro	Nome	CPF	Item	Quantidade	
+1	Srta. Maria Alice Santos	15843570209	Sal	2	
+2	Luana Silveira	61183974126	Grão de bico	4	
+3	Isabella Pinto	47119494200	Vegetais	9	
+4	Raul da Cruz	11804522433	Carne de porco	1	
+5	Davi Luiz Cardoso	11506324151	Melancia	10	
+6	Gabriela Almeida	59841467712	Tomate	5	
+7	Carolina das Neves	24834110746	Ovo	4	
+8	Catarina Rodrigues	27156184412	Acelga	2	
+9	Srta. Alícia Vieira	20388799952	Granada	6	
+10	Vitor Hugo Caldeira	73378211765	Rabanete	8	
+11	Amanda Fogaça	11437866154	Castanha	5	
+12	Júlia Azevedo	83150286430	Ovo	9	
+13	Vitor Hugo Nascimento	78223735887	Abobrinha	5	
+14	Sr. Pedro Henrique Freitas	43881553751	Amora vermelha	6	
+15	Alana Barbosa	42276217563	óleo	6	

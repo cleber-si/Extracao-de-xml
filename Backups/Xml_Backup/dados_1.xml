@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Cleber</Author>
+  <LastAuthor>Cleber</LastAuthor>
+  <Created>2021-11-11T18:42:59Z</Created>
+  <LastSaved>2021-11-11T18:59:19Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5970</WindowHeight>
+  <WindowWidth>11265</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <NumberFormat ss:Format="000\.000\.000\-00"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Planilha1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="131.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="86.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63"/>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ID_registro</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nome</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CPF</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Item</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quantidade</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emilly Monteiro</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">14584849565</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bicicleta</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gabrielly Monteiro</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">20919158062</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Televisão</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Maysa Duarte</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">66038626466</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Geladeira</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Arthur Correia</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">83546274425</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Skate</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pedro Lucas Teixeira</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">42012542753</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Livro</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Enzo Gabriel Melo</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">69759857952</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Guarda Roupas</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Mirella Ramos</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">28227353140</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Jogo de Cozinha</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Isis Novaes</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">47914366135</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Quadro Negro</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Isadora Cardoso</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">19034172276</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Video Game</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pedro Lucas Cardoso</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=RANDBETWEEN(10000000000, 99999999999)"><Data
+      ss:Type="Number">79940566911</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Espelho</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

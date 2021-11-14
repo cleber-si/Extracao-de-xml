@@ -1,0 +1,13 @@
+ID_registro	Nome	CPF	Item	Quantidade	
+1	João Guilherme Moura	75585365062	Groselha	2	
+2	Samuel Moreira	85743718081	Ovos	2	
+3	Juan da Paz	96100206118	Carne	5	
+4	Maria Eduarda Aragão	27279663407	Lentilhas	5	
+5	Pedro Farias	43478811695	Comida	7	
+6	Rafael Alves	85900145521	Batatas	10	
+7	Eloah Silva	51431018747	Morango	4	
+8	Camila Fogaça	32654851194	Ovos	9	
+9	Helena Cardoso	21919113347	Caqui	3	
+10	Dr. Luiz Fernando Ramos	38996284271	Figo	5	
+11	Ana Sophia Castro	36607131394	Carne de frango	4	
+12	Paulo Santos	62089087641	Vegetais	9	
